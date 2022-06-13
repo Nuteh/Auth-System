@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "/U26STfc5Jxk1rRecR6WRHVWpDu94sB2mk+CVlw0GODXX1jb5vUEs7S8GPYTHtJRDGmLDH5susFu0A6KnJIvew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igorm\\Desktop\\Desktop\\Zavrsni rad\\Auth System\\Auth System\\Auth System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igorm\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
+    "C:\\Users\\igorm\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
+    "C:\\Users\\igorm\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
+    "C:\\Users\\igorm\\.nuget\\packages\\k4os.compression.lz4.streams\\1.2.6\\k4os.compression.lz4.streams.1.2.6.nupkg.sha512",
+    "C:\\Users\\igorm\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
+    "C:\\Users\\igorm\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\igorm\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0-preview.2.22152.2\\microsoft.win32.systemevents.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\igorm\\.nuget\\packages\\mysql.data\\8.0.28\\mysql.data.8.0.28.nupkg.sha512",
+    "C:\\Users\\igorm\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\igorm\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0-preview.2.22152.2\\system.configuration.configurationmanager.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\igorm\\.nuget\\packages\\system.drawing.common\\7.0.0-preview.2.22152.2\\system.drawing.common.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\igorm\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\igorm\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\igorm\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0-preview.2.22152.2\\system.security.cryptography.protecteddata.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\igorm\\.nuget\\packages\\system.security.permissions\\7.0.0-preview.2.22152.2\\system.security.permissions.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\igorm\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512",
+    "C:\\Users\\igorm\\.nuget\\packages\\system.windows.extensions\\7.0.0-preview.2.22152.2\\system.windows.extensions.7.0.0-preview.2.22152.2.nupkg.sha512"
+  ],
+  "logs": []
+}
